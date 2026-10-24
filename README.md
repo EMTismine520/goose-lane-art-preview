@@ -1,7 +1,7 @@
-# 鹅巷食光美术对照
+# 鹅巷食光 · B 组暖色卡通试玩
 
-独立手机预览，不注册离线缓存。
+38 项 96×96 可编辑 SVG，独立测试存档，不注册离线缓存。
 
-源码：[goose-lane / 603fc35](https://github.com/EMTismine520/goose-lane/commit/603fc3527304fdcba341dc5f820482362c5cafd8)
+源码：[goose-lane / 8cad91c](https://github.com/EMTismine520/goose-lane/commit/8cad91c5f99d9b31306e225c228ed645fe7b5402)
 
-[美术对照](https://emtismine520.github.io/goose-lane-art-preview/) · [恢复原游戏入口](https://emtismine520.github.io/goose-lane-art-preview/recover.html)
+[正式游戏](https://emtismine520.github.io/goose-lane/) · [B 组试玩](https://emtismine520.github.io/goose-lane-art-preview/) · [保留存档的恢复入口](https://emtismine520.github.io/goose-lane-art-preview/recover.html)
