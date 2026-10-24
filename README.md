@@ -1,7 +1,9 @@
-# 鹅巷食光 · B 组暖色卡通试玩
+# 鹅巷食光 · B 类 3.0.0
 
-38 项 96×96 可编辑 SVG，独立测试存档，不注册离线缓存。
+源码提交：9d04757b71e17f52d2b272a9f0a4d37ce5d34706
 
-源码：[goose-lane / ac2b189](https://github.com/EMTismine520/goose-lane/commit/ac2b189d846a00a8a78c2aa9f069d706ea7b2ca1)
+139种成品、123道配方、22类三级设备、311项图鉴。
 
-[正式游戏](https://emtismine520.github.io/goose-lane/) · [B 组试玩](https://emtismine520.github.io/goose-lane-art-preview/) · [B 组直达入口](https://emtismine520.github.io/goose-lane-art-preview/recover.html)
+[正式游戏](https://emtismine520.github.io/goose-lane/) · [完整图鉴独立预览](https://emtismine520.github.io/goose-lane-art-preview/v3-preview.html) · [原B样板试玩](https://emtismine520.github.io/goose-lane-art-preview/)
+
+独立预览使用测试存档，不注册Service Worker。正式游戏保留自动存档与三个手动存档。
