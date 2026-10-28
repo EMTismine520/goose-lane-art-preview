@@ -1,9 +1,9 @@
-# 鹅巷食光 · B 类 3.0.0
+# 鹅巷食光 V4
 
-源码提交：3ad9cf4becae2b83be924b8aae1d42188be53d6c
+源码提交：8b270f8b09bc46e4dc734b4f598e340d8e035d7c
 
-139种成品、123道配方、22类三级设备、311项图鉴。
+323 项图鉴美术、14 类单链生产器、26 类三级器材。V4 独立新档，原存档留在原处。
 
-[正式游戏](https://emtismine520.github.io/goose-lane/) · [完整图鉴独立预览](https://emtismine520.github.io/goose-lane-art-preview/v3-preview.html) · [原B样板试玩](https://emtismine520.github.io/goose-lane-art-preview/)
+[正式游戏](https://emtismine520.github.io/goose-lane/) · [完整图鉴试玩](./v3-preview.html) · [美术审查](./art-v4.html)
 
-独立预览使用测试存档，不注册Service Worker。正式游戏保留自动存档与三个手动存档。
+独立试玩不注册 service worker。
