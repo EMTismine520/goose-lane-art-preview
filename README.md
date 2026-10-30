@@ -6,4 +6,4 @@ Plan V6：器具名称右侧展示订单食材；已投彩色带勾，缺料灰�
 
 [正式游戏](https://emtismine520.github.io/goose-lane/) · [独立试玩](https://emtismine520.github.io/goose-lane-art-preview/v3-preview.html)
 
-独立试玩不注册 service worker。
+仅发布本次新版构建，不保留历史哈希资源。独立试玩不注册 service worker。
